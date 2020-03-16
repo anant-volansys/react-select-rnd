@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.test-class {
+  color: #61dafb;
+  border: 1px solid teal;
+  border-radius: 20%;
+}
+
+.test-class-2 {
+  background-color: blue;
+  margin-left: 58px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
